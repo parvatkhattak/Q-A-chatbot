@@ -1,6 +1,6 @@
 # Tredence Website Q&A Chatbot (RAG + Visualization)
 
-This project is an end-to-end Retrieval-Augmented Generation (RAG) pipeline that powers a Q&A chatbot over the **Tredence** homepage. It is implemented entirely in Jupyter notebooks and uses:
+This project is an end-to-end Retrieval-Augmented Generation (RAG) pipeline that powers a Q&A chatbot over the **Tredence** homepage. It is implemented entirely into Jupyter notebooks and uses:
 
 - `requests` + `BeautifulSoup` for web scraping  
 - `OpenAI` embeddings and chat completions  
