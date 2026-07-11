@@ -33,7 +33,7 @@ High-level steps:
 
 ---
 
-## 2. Tech Stack
+## 2. Tech-Stack
 
 - **Language:** Python 3.10+  
 - **Scraping:** `requests`, `beautifulsoup4`  
